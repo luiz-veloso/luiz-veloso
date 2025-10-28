@@ -1,5 +1,7 @@
 ## I'm Luiz Veloso 👋
 
+### Computer Science student
+
 <!--
 **luiz-veloso/luiz-veloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
