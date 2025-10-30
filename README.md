@@ -1,4 +1,4 @@
-## I'm Luiz Veloso 👋
+## Hi! I'm Luiz Veloso 👋
 
 ### Computer Science student
 
